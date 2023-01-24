@@ -10,3 +10,4 @@ You can use this model installing that libraries:
 
 Link to acess files: <https://drive.google.com/drive/folders/1pdgu5W0Hu7VCoEhoQba8hMErWtlgaDLd?usp=sharing>
 
+FALTA LIVE E IMAGE CLASSIFICATION!!
