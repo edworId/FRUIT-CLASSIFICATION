@@ -7,6 +7,5 @@ You can use this model installing that libraries:
 
 -keras
 
--tensorflow
-
+-tensorflow /n
 -numpy
