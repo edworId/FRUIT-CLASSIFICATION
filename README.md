@@ -7,3 +7,6 @@ You can use this model installing that libraries:
 -keras <br />
 -tensorflow <br />
 -numpy <br />
+
+Link to acess files: <https://drive.google.com/drive/folders/1pdgu5W0Hu7VCoEhoQba8hMErWtlgaDLd?usp=sharing>
+
